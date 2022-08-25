@@ -124,6 +124,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[187]重复的DNA序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/doc/content/[187]重复的DNA序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn187" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[187]重复的DNA序列.java" />
+              <option name="titleSlug" value="repeated-dna-sequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[1884]鸡蛋掉落-两枚鸡蛋.java">
           <value>
             <LeetcodeEditor>
@@ -311,6 +322,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[34]在排序数组中查找元素的第一个和最后一个位置.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/doc/content/[34]在排序数组中查找元素的第一个和最后一个位置.md" />
+              <option name="frontendQuestionId" value="leetcode.cn34" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[34]在排序数组中查找元素的第一个和最后一个位置.java" />
+              <option name="titleSlug" value="find-first-and-last-position-of-element-in-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[38]外观数列.java">
           <value>
             <LeetcodeEditor>
@@ -374,6 +396,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[51]N 皇后.java" />
               <option name="titleSlug" value="n-queens" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[528]按权重随机选择.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/doc/content/[528]按权重随机选择.md" />
+              <option name="frontendQuestionId" value="leetcode.cn528" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[528]按权重随机选择.java" />
+              <option name="titleSlug" value="random-pick-with-weight" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -462,6 +495,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[68]文本左右对齐.java" />
               <option name="titleSlug" value="text-justification" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[704]二分查找.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/doc/content/[704]二分查找.md" />
+              <option name="frontendQuestionId" value="leetcode.cn704" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[704]二分查找.java" />
+              <option name="titleSlug" value="binary-search" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -638,6 +682,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[剑指 Offer 22]链表中倒数第k个节点.java" />
               <option name="titleSlug" value="lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[剑指 Offer 53 - I]在排序数组中查找数字 I.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/doc/content/[剑指 Offer 53 - I]在排序数组中查找数字 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 53 - I" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/8b/jqhb1ywx5lv99km_wlsn284r0000gn/T/leetcode/editor/cn/[剑指 Offer 53 - I]在排序数组中查找数字 I.java" />
+              <option name="titleSlug" value="zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>

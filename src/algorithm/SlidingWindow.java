@@ -1,3 +1,5 @@
+package algorithm;
+
 /**
  * 滑动窗口问题模板及说明
  * @author miaomeiqi

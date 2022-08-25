@@ -1,3 +1,5 @@
+package algorithm;
+
 /**
  * 差分数组工具类
  * @author miaomeiqi

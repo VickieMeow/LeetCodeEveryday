@@ -1,3 +1,5 @@
+import algorithm.Difference;
+
 /**
  * 区间加法
  * 假设有一个长度为n的数组，初始情况下所有数字均为0，将被给出K个更新的操作
