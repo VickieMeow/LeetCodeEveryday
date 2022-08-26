@@ -2,6 +2,8 @@ import java.util.Random;
 
 /**
  * 按权重随机选择
+ * 同剑指OfferII 071 按权重生成随机数
+ * 构建前缀和数组
  * @author miaomeiqi
  */
 public class Solution528 {
