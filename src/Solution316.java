@@ -18,7 +18,9 @@ public class Solution316 {
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             charNums[c]--;
-            if (isInStack[c]) continue;
+            if (isInStack[c]) {
+                continue;
+            }
             while (!stack.isEmpty()) {
                 char topChar = stack.peek();
                 if (topChar > c && charNums[topChar] > 0) {
