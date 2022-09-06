@@ -2,6 +2,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
+ * 填充每一个节点的下一个节点指针
  * @author miaomeiqi
  */
 public class Solution116 {
