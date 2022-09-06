@@ -36,4 +36,25 @@ public class Solution116 {
 
         return root;
     }
+
+
+    /**
+     * 另一种解法，把二叉树看做三叉树，中间连起来
+     */
+    public Node connect2(Node root) {
+        if (root == null) {
+            return null;
+        }
+        traverse(root.left, root.right);
+        return root;
+    }
+    public void traverse(Node root1, Node root2) {
+        if (root1 == null || root2 == null) {
+            return;
+        }
+        root1.next = root2;
+        traverse(root1.left, root1.right);
+        traverse(root2.left, root2.right);
+        traverse(root1.right, root2.left);
+    }
 }
