@@ -5,7 +5,7 @@
  * @author miaomeiqi
  */
 public class Solution114 {
-    class TreeNode{
+    static class TreeNode{
         TreeNode left;
         TreeNode right;
     }
