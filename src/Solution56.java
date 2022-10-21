@@ -23,7 +23,7 @@ public class Solution_56 {
             }
         }
         res.add(new int[]{start,end});
-        return res.toArray(new int[0][]);
+        return res.toArray(new int[res.size()][2]);
 
     }
 
